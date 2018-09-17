@@ -1,10 +1,13 @@
 _repo: The-Theatrical-Primer_52491
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Sagerson, Francis P.
     gutenberg_agent_id: '46893'
     url: http://www.gutenberg.org/2009/agents/46893
+covers:
+- cover_type: archival
+  image_path: 52491-h/images/cover.jpg
 creator:
   author:
     agent_name: Vivian, Harold Acton
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '46892'
     url: http://www.gutenberg.org/2009/agents/46892
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52491#The-Theatrical-Primer
 gutenberg_issued: '2016-07-03'
 gutenberg_type: Text
 identifiers:
